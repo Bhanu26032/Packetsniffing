@@ -19,7 +19,7 @@ This project is meant to be used responsibly and ethically. Unauthorized interce
 Usage:
 
 Clone the repository to your local machine.
-And you can see the python file and run the python file by python3 Packetsniffing.py.
+And you can see the python file and run the python file by python3 packetniff.py.
 Run the packet sniffer with appropriate permissions and configurations.
 Contributing:
 
