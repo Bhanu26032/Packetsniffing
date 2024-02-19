@@ -25,10 +25,6 @@ Contributing:
 
 Contributions are welcome! Before contributing, please review our Contribution Guidelines to ensure a collaborative and positive environment.
 
-License:
-
-This project is licensed under the MIT License.
-
 Important:
 
 Use this tool responsibly and only on networks you have explicit permission to analyze. Respect privacy and legal boundaries.
